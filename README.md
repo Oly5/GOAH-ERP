@@ -1,4 +1,4 @@
-# GOAH ERP — Medical Supply Management System
+# GOAH ERP ( Medical Supply Management System )
 
 A full-stack ERP project designed for **GOAH Medical Material Supplier**, a medical supply reseller serving hospitals, clinics, pharmacies, and laboratories in Ethiopia.
 
