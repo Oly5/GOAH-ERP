@@ -110,11 +110,10 @@ Install the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Oly5/GOAH-ERP
 cd goah-erp/backend
 ```
 
-Replace `YOUR_REPOSITORY_URL` with your Git repository URL.
 
 ### 2. Install Dependencies
 
@@ -130,10 +129,6 @@ Create a `.env` file inside the `backend` directory:
 PORT=5000
 MONGODB_URL=your_mongodb_connection_string
 ```
-
-Replace the example database value with your MongoDB Atlas connection string.
-
-**Security:** Never commit your `.env` file or expose database credentials in your source code. Add `.env` to `.gitignore`.
 
 ### 4. Start the Development Server
 
